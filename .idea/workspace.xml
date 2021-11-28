@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45ec5e6e-e07a-428b-92b4-4141abdc687d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zad1/data/pangram_data_test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad1/src/sample/Pangram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2/src/FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
