@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45ec5e6e-e07a-428b-92b4-4141abdc687d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.coveralls.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad2/src/FizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/zad2/src/FizzBuzz.py" afterDir="false" />
-    </list>
+    <list default="true" id="45ec5e6e-e07a-428b-92b4-4141abdc687d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
