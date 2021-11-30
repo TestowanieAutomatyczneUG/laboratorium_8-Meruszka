@@ -13,7 +13,7 @@ class FizzBuzzParameterizedPackage(unittest.TestCase):
         (15, "FizzBuzz"),
     ])
     def test_one_parameterized(self,number, expected):
-        self.assertEqual(self.tmp.func(number), expected)
+        self.assertEqual(self.tmp.game(number), expected)
 
 
 @parameterized_class(('number', 'expected'), [
@@ -35,7 +35,7 @@ class FizzBuzzParameterizedPackage2(unittest.TestCase):
         self.tmp = FizzBuzz()
 
     def test_second_parameterized(self):
-        self.assertEqual(self.tmp.func(self.number), self.expected)
+        self.assertEqual(self.tmp.game(self.number), self.expected)
 
 
 if __name__ == '__main__':
